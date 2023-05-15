@@ -1,0 +1,1 @@
+This Landing page contains details about Valutico company its a huge company with great benefit to clients the page was built with mainly HTML and CSS but the replicate was done using a figma its ny first ever landing page and it was awesome
